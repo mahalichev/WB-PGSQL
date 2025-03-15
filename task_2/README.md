@@ -35,7 +35,6 @@
 # 3. Запустить везде psql из под пользователя postgres к одному кластеру ПГ
 
 mahalichev@DESKTOP:~$ sudo -u postgres psql
-[sudo] password for mahalichev:
 psql (17.4 (Ubuntu 17.4-1.pgdg24.04+2))
 Type "help" for help.
 
